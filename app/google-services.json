@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018165236254",
+    "firebase_url": "https://eeluproject.firebaseio.com",
+    "project_id": "eeluproject",
+    "storage_bucket": "eeluproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018165236254:android:a01de97bfbd34aef",
+        "android_client_info": {
+          "package_name": "com.mhmd.eeluproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018165236254-pt9hcmvjo4ijp1kdgf60p6hmstuge5j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhmd.eeluproject",
+            "certificate_hash": "c19d301fa3debb8b98ec317dc6623ff04db50fbb"
+          }
+        },
+        {
+          "client_id": "1018165236254-b3cka97tu64n5bt8c6ta44jj7cfsoqbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZ4e-ULlpaWtx6P-p17ECSk-lVg8bXn4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018165236254-b3cka97tu64n5bt8c6ta44jj7cfsoqbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

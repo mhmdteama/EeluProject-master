@@ -1,0 +1,67 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mhmd.eeluproject.frgments.Goals"
+    android:orientation="vertical">
+
+    <com.daimajia.slider.library.SliderLayout
+        android:id="@+id/goalsimgs"
+        android:layout_width="350dp"
+        android:layout_height="280dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="15dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="20sp"
+            android:textColor="#4da6ff"
+            android:text="Continuous technological developments in healthcare have saved countless lives and improved the quality of life for even more.Not only has technology changed experiences for patients and their families, but it’s also had a huge impact on medical processes and the practices of healthcare professionals."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:text="The main goals"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:textSize="20sp"
+            android:textColor="#4da6ff"
+            android:layout_gravity="left"
+            android:text="1) Improve the patient's life
+
+2 )Help the patient during his day
+
+3)Full medical system
+
+4)Always make the patient safe
+
+5)Permanent reminder of the patient's tasks
+
+"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
